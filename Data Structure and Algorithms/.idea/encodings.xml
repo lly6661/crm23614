@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/louis/chain_list/DLLinkedList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/louis/chain_list/GoodsNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/louis/chain_list/LinkedTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/louis/stack/ArrayStack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/louis/stack/TestStack.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
